@@ -1,0 +1,11 @@
+.main {
+  margin: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.chatbot {
+  padding: 7px;
+  border-radius: 10%;
+  background-color: rgb(157, 40, 241);
+}

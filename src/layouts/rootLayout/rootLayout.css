@@ -1,0 +1,29 @@
+.rootLayout {
+  padding: 16px 64px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+/* /* main {
+  flex: 1;
+ 
+  overflow: hidden;
+}
+/* .nav {
+  width: 100%;
+} */
+main {
+  flex: 1;
+  overflow: hidden;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
